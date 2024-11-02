@@ -1,0 +1,7 @@
+env/
+dist/
+content/
+layouts/
+glint_dist/*
+node_modules/
+glint/__pycache__/

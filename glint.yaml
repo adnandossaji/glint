@@ -1,0 +1,4 @@
+site_name: "My Glint Site"
+output_dir: "dist"
+layouts_dir: "layouts"
+content_dir: "content"
